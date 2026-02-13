@@ -51,9 +51,10 @@ Ensure Docker and Docker Compose are installed.
 
 1.  **Clone and Start**
     ```bash
-    git clone <repository-url>
-    cd credit_approval_system
+    git clone https://github.com/RAHUKKRRANJAN/credit-approval-system.git
+    cd credit-approval-system
     docker-compose up --build
+
     ```
 
 2.  **Ingest Data**
